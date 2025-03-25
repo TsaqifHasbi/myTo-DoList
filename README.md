@@ -9,7 +9,7 @@ A. Fitur Utama
      b. Nama Tugas (deskripsi tugas)
      c. Deadline (disimpan sebagai objek date)
      d. Status Penyelesaian (boolean True/False)
-  2. Sistem Interaktif Berbasis Menu
+  3. Sistem Interaktif Berbasis Menu
      Antarmuka pengguna yang sederhana dengan 6 opsi menu utama:
      a. Penambahan Tugas Baru
          - Validasi format tanggal otomatis
